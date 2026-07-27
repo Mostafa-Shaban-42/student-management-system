@@ -1,4 +1,4 @@
-# 🎓 Student Management System (V2)
+# 🎓 Student Management System 
 
 A comprehensive, interactive, and modular **Student Management & Analytics System** built with **Python**, **Streamlit**, and **Plotly**. 
 
